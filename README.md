@@ -2,6 +2,8 @@
 
 A production-ready web application for collaborative knowledge management with real-time features, built with TypeScript, React, Next.js, Apollo GraphQL, and Supabase.
 
+Demo Link: https://collaborative-knowledge-hub.vercel.app/
+
 ## Features
 
 - 📝 Rich text article editor with TipTap
